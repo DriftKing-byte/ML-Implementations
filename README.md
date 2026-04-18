@@ -1,2 +1,3 @@
-# ML-Implementations
-Various ML workflow implementations
+# Explore Various ML Algorithms
+
+Learn how to implement ML algorithms from scratch. 
